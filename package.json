@@ -1,0 +1,14 @@
+{
+  "id": "float",
+  "name": "float.com",
+  "version": "1.0.3",
+  "description": "float",
+  "main": "index.js",
+  "author": "Laurent Constantin",
+  "license": "CC-BY-SA-4.0",
+  "repository": "https://github.com/ragusa87/franz-float.com-liip",
+  "config": {
+    "serviceURL": "https://liip.float.com/",
+    "hasNotificationSound": true
+  }
+}
